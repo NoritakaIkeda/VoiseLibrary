@@ -1,2 +1,1 @@
 export * from "./ContentTabs";
-export * from "./Header";
