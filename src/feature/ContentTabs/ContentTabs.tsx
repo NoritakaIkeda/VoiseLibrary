@@ -7,6 +7,7 @@ import {
   Tabs,
   Text,
 } from "@chakra-ui/react";
+import { VoiceButton } from "../VoiceButton";
 
 export const ContentTabs = () => {
   return (
@@ -20,7 +21,7 @@ export const ContentTabs = () => {
       <TabIndicator mt="-1.5px" height="2px" bg="blue.500" borderRadius="1px" />
       <TabPanels>
         <TabPanel>
-          <p>ボイス一覧が追加されます。</p>
+          <VoiceButton />
         </TabPanel>
         <TabPanel>
           <p>会話デッキが追加されます</p>
