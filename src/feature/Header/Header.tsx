@@ -1,5 +1,6 @@
 import { Box, Link, HStack, Image, Heading, Text } from "@chakra-ui/react";
 import hogeImage from "../../asset/pato_lamp_on_red.png";
+import data from "../../data.json";
 
 export const Header = () => {
   return (
@@ -13,7 +14,7 @@ export const Header = () => {
             </Heading>
           </HStack>
         </Link>
-        <Text fontSize={"12px"}>現在100個</Text>
+        <Text fontSize={"12px"}>現在{data.length}個</Text>
       </HStack>
       <Box width="100%" height="1px" bg="gray.200" my={"4px"} />
     </>

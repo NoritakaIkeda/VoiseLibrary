@@ -1,19 +1,25 @@
 import { Box, Text } from "@chakra-ui/react";
 import { useRef } from "react";
 
-export const VoiceButton = () => {
+type Props = {
+  name: string;
+  audioResourcePath: string;
+};
+
+export const VoiceButton = ({ name, audioResourcePath }: Props) => {
   const audioRef = useRef<HTMLAudioElement>(null);
 
   const playAudio = () => {
     if (audioRef.current) {
+      audioRef.current.volume = 0.2;
       audioRef.current.play();
     }
   };
   return (
     <Box>
       <Box
-        w="100px"
-        h="100px"
+        w={{ base: "80px", md: "100px" }}
+        h={{ base: "80px", md: "100px" }}
         bgColor="#FF5C67"
         display="flex"
         alignItems="center"
@@ -22,15 +28,18 @@ export const VoiceButton = () => {
         onClick={playAudio}
         cursor="pointer"
       >
-        <Text color={"white"} fontWeight={"bold"}>
-          あやや
+        <Text
+          color={"white"}
+          fontWeight={"bold"}
+          p={"15px"}
+          textAlign={"center"}
+          fontSize={{ base: "10px", md: "14px" }}
+        >
+          {name}
         </Text>
       </Box>
       {/* オーディオ要素 */}
-      <audio
-        ref={audioRef}
-        src="/Q-VTuber-Shorts_VFROAk8WS4g_00_00_10_00_00_14_part.mp3"
-      />
+      <audio ref={audioRef} src={audioResourcePath} />
     </Box>
   );
 };
