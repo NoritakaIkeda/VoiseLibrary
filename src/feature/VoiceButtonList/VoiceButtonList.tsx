@@ -9,11 +9,10 @@ export const VoiceButtonList = () => {
         templateColumns={{ base: "repeat(3, 1fr)", md: "repeat(7, 1fr)" }}
         gap={6}
       >
-        {data.map((item) => {
+        {data.map((item, index) => {
           return (
-            <GridItem>
+            <GridItem key={index}>
               <VoiceButton
-                key={item.id}
                 name={item.name}
                 audioResourcePath={item.audioResourcePath}
               />

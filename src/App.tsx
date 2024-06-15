@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <Header />
-      <Box px={{ base: "5%", md: "20%" }} py={"20px"}>
+      <Box px={{ base: "5%", md: "20vw" }} py={"20px"}>
         <ContentTabs />
       </Box>
     </>
