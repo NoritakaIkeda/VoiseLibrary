@@ -1,5 +1,5 @@
 import { Box } from "@chakra-ui/react";
-import { ContactUsButton, ContentTabs, Header } from "./feature";
+import { ContactUsButton, ContentTabs, Footer, Header } from "./feature";
 
 function App() {
   return (
@@ -11,6 +11,7 @@ function App() {
         </Box>
         <ContentTabs />
       </Box>
+      <Footer />
     </>
   );
 }
