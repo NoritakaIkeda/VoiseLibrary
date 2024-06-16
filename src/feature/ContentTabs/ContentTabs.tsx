@@ -1,4 +1,5 @@
 import {
+  Box,
   Tab,
   TabIndicator,
   TabList,
@@ -24,7 +25,9 @@ export const ContentTabs = () => {
           <VoiceButtonList />
         </TabPanel>
         <TabPanel>
-          <p>会話デッキが追加されます</p>
+          <Box h={"700px"}>
+            <p>会話デッキが追加されます</p>
+          </Box>
         </TabPanel>
       </TabPanels>
     </Tabs>
