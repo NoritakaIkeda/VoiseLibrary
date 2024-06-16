@@ -11,13 +11,14 @@ export const VoiceButton = ({ name, audioResourcePath }: Props) => {
 
   const playAudio = () => {
     if (audioRef.current) {
-      audioRef.current.volume = 0.2;
+      audioRef.current.volume = 0.3;
       audioRef.current.play();
     }
   };
   return (
     <Box>
       <Box
+        boxShadow="md"
         w={{ base: "80px", md: "100px" }}
         h={{ base: "80px", md: "100px" }}
         bgColor="#FF5C67"
