@@ -7,7 +7,9 @@ export const ContactUsButton = () => {
       target="_blank"
       rel="noopener noreferrer"
     >
-      <Button>ボタン追加依頼・お問い合わせ</Button>
+      <Button rounded={"50"} bgColor={"#F5F5F5"} color={"#3E3E3E"}>
+        ボタン追加依頼・お問い合わせ
+      </Button>
     </Link>
   );
 };
