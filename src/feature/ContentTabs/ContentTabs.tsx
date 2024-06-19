@@ -12,10 +12,12 @@ import { VoiceButtonList } from "../VoiceButtonList";
 import { YoutubeLinkList } from "../YoutubeLinkList";
 import { CustomButtonList } from "../CustomButtonList";
 import { useState } from "react";
+import usePageTracking from "../../useTracking";
 
 export const ContentTabs = () => {
   const [isActive, setIsActive] = useState(true);
   const [activeTab, setActiveTab] = useState(0);
+  usePageTracking();
 
   const handleTabChange = (index: number) => {
     setActiveTab(index);
