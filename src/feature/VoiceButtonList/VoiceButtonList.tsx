@@ -1,4 +1,11 @@
-import { Box, Button, CheckboxGroup, Grid, GridItem } from "@chakra-ui/react";
+import {
+  Box,
+  Button,
+  CheckboxGroup,
+  Grid,
+  GridItem,
+  useToast,
+} from "@chakra-ui/react";
 import data from "../../data.json";
 import { VoiceButton } from "../VoiceButton";
 import { useEffect, useState } from "react";
@@ -10,6 +17,7 @@ export const VoiceButtonList = () => {
   const handleCheckboxChange = (value: never[]) => {
     setCheckedItems(value);
   };
+  const toast = useToast();
 
   useEffect(() => {
     const storedItems = localStorage.getItem("checkedItems");
@@ -25,7 +33,12 @@ export const VoiceButtonList = () => {
       checkedItems.includes(item.name)
     );
     localStorage.setItem("checkedItems", JSON.stringify(selectedItems));
-    alert("Selected items saved to localStorage");
+    toast({
+      title: "会話デッキに保存が完了しました",
+      status: "success",
+      duration: 5000,
+      isClosable: true,
+    });
     setIsEdit(!isEdit);
   };
 
