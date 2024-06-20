@@ -1,6 +1,18 @@
 [
   {
     "id": "2",
+    "name": "チョットマチーナ!チョットマチーナ!",
+    "audioResourcePath": "/audio/thotto.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "ﾊﾞﾘﾊﾞﾘﾊﾞﾘﾊﾞﾘﾊﾞﾘﾊﾞﾘ",
+    "audioResourcePath": "/audio/baribari.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
     "name": "筍のこのこ虎視眈々",
     "audioResourcePath": "/audio/takenokonokonoko.mp3",
     "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
