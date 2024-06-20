@@ -63,10 +63,18 @@ export const VoiceButtonList = () => {
             {data.map((item, index) => {
               return (
                 <GridItem key={index}>
-                  <VoiceButton
-                    name={item.name}
-                    audioResourcePath={item.audioResourcePath}
-                  />
+                  {index <= 5 ? (
+                    <VoiceButton
+                      name={item.name}
+                      audioResourcePath={item.audioResourcePath}
+                      hasNotification={true}
+                    />
+                  ) : (
+                    <VoiceButton
+                      name={item.name}
+                      audioResourcePath={item.audioResourcePath}
+                    />
+                  )}
                 </GridItem>
               );
             })}
