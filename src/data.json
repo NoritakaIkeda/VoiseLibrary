@@ -1,6 +1,42 @@
 [
   {
     "id": "2",
+    "name": "筍のこのこ虎視眈々",
+    "audioResourcePath": "/audio/takenokonokonoko.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "がにさす",
+    "audioResourcePath": "/audio/ganisasu.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "ﾅﾝﾃｺﾄ!?ﾅﾝﾃｺﾄ",
+    "audioResourcePath": "/audio/nanntekoto*2.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "(音量注意)はあ--!!!やった---!",
+    "audioResourcePath": "/audio/ha-yatta-.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "てんてんてーんてててててててーん",
+    "audioResourcePath": "/audio/tentente-nn.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "しょんぼりぼりぼりぼり太郎",
+    "audioResourcePath": "/audio/shonbori.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
     "name": "ありガント",
     "audioResourcePath": "/audio/58E70DD1-F5B8-4090-962F-3D361050C0D3.mp3",
     "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"

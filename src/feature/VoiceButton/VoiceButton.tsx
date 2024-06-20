@@ -4,9 +4,14 @@ import { useRef } from "react";
 type Props = {
   name: string;
   audioResourcePath: string;
+  hasNotification?: boolean; // optional prop to control notification badge visibility
 };
 
-export const VoiceButton = ({ name, audioResourcePath }: Props) => {
+export const VoiceButton = ({
+  name,
+  audioResourcePath,
+  hasNotification,
+}: Props) => {
   const audioRef = useRef<HTMLAudioElement>(null);
 
   const playAudio = () => {
@@ -15,8 +20,25 @@ export const VoiceButton = ({ name, audioResourcePath }: Props) => {
       audioRef.current.play();
     }
   };
+
   return (
-    <Box>
+    <Box position="relative" display="inline-block">
+      {hasNotification && (
+        <Box
+          position="absolute"
+          top="-4px"
+          right="-4px"
+          bgColor="#EF4B3F"
+          w="16px"
+          h="16px"
+          borderRadius="50%"
+          display="flex"
+          alignItems="center"
+          justifyContent="center"
+        >
+          <Text color="white" fontSize="10px" fontWeight="bold"></Text>
+        </Box>
+      )}
       <Box
         boxShadow="md"
         w={{ base: "80px", md: "100px" }}
@@ -39,7 +61,6 @@ export const VoiceButton = ({ name, audioResourcePath }: Props) => {
           {name}
         </Text>
       </Box>
-      {/* オーディオ要素 */}
       <audio ref={audioRef} src={audioResourcePath} />
     </Box>
   );
