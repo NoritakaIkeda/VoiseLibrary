@@ -1,6 +1,66 @@
 [
   {
     "id": "2",
+    "name": "(初期猫)我輩とっても嬉しいぞ",
+    "audioResourcePath": "/audio/wagahaitottemo.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "(初期猫)やったぞ〜〜！",
+    "audioResourcePath": "/audio/yattazo-.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "(初期猫)どうなることかと思ったゾ",
+    "audioResourcePath": "/audio/dounarukotokato.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "(初期猫)それすごいわかるゾ",
+    "audioResourcePath": "/audio/soresugoiwakaruzo.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "(初期猫)嬉しい",
+    "audioResourcePath": "/audio/uresii.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "(初期猫)ありガントありガント",
+    "audioResourcePath": "/audio/arigannto*2.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "(初期猫)頑張るゾ",
+    "audioResourcePath": "/audio/ganbaruzo.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "(初期猫)きたー！",
+    "audioResourcePath": "/audio/kita-.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "(初期猫)我輩ってフェニックスだからサ~",
+    "audioResourcePath": "/audio/fenikkusu.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "(初期猫)ごめんなさい",
+    "audioResourcePath": "/audio/gomennasai.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
     "name": "チョットマチーナ!チョットマチーナ!",
     "audioResourcePath": "/audio/thotto.mp3",
     "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
