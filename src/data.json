@@ -1,6 +1,42 @@
 [
   {
     "id": "2",
+    "name": "お願いだあ",
+    "audioResourcePath": "/audio/onegaida.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "鳴き声+頼むよ×2",
+    "audioResourcePath": "/audio/natanomuyo.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "つれえよなあ、まじか!",
+    "audioResourcePath": "/audio/tureyona-majika.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "つれえよなあ(普段)",
+    "audioResourcePath": "/audio/tureyona4.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "つれえよなあ(明るめ)",
+    "audioResourcePath": "/audio/tureyona3.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "つれえよなあ(動画用)",
+    "audioResourcePath": "/audio/tureyona2.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
     "name": "(初期猫)我輩とっても嬉しいぞ",
     "audioResourcePath": "/audio/wagahaitottemo.mp3",
     "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
