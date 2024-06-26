@@ -1,6 +1,48 @@
 [
   {
     "id": "2",
+    "name": "なむ!?なむなむなむ",
+    "audioResourcePath": "/audio/namunamu.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "ナイスやね!",
+    "audioResourcePath": "/audio/naisuyane.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "まあね正直、我輩ね",
+    "audioResourcePath": "/audio/maanesyouzikiwagahaine.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "何の話かい？(すっとぼけ)",
+    "audioResourcePath": "/audio/nannnohanasikai.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "やばばば危ないよ~(危ないよ~)",
+    "audioResourcePath": "/audio/yabababaabunaiyo.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "心がふたつある~~!",
+    "audioResourcePath": "/audio/kokoroga.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "さあ~ではではでは~",
+    "audioResourcePath": "/audio/sadewadewadewa.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
     "name": "お願いだあ",
     "audioResourcePath": "/audio/onegaida.mp3",
     "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
@@ -151,7 +193,7 @@
   },
   {
     "id": "3",
-    "name": "げげげげ~~(強)",
+    "name": "げげげげ~~(強)aaa",
     "audioResourcePath": "/audio/げげげげ(強).mp3",
     "youTubeVideoUrl": "https://www.youtube.com/live/Qt9zb0nIhdg?si=Lii4WFeFoAfyDewL&t=11399"
   },
