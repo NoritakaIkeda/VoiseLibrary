@@ -1,6 +1,60 @@
 [
   {
     "id": "2",
+    "name": "いぃえ",
+    "audioResourcePath": "/audio/iie.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "お主も我輩なのか!?",
+    "audioResourcePath": "/audio/onushimo.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "んなぁ",
+    "audioResourcePath": "/audio/nnaa.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "ﾅﾊ、そんなあ",
+    "audioResourcePath": "/audio/nasonnna.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "ｷﾞｬｱー嘘！",
+    "audioResourcePath": "/audio/gyauso.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "頼む、間に合ってくれ、我輩の肉球!",
+    "audioResourcePath": "/audio/tanomumaniattekure.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "パトランプ本体の説3",
+    "audioResourcePath": "/audio/setu3.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "大変だぁよねぇそうだよねぇ",
+    "audioResourcePath": "/audio/taihenndayone.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "ちょっとぉ",
+    "audioResourcePath": "/audio/tyotto.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
     "name": "なむ!?なむなむなむ",
     "audioResourcePath": "/audio/namunamu.mp3",
     "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
@@ -193,7 +247,7 @@
   },
   {
     "id": "3",
-    "name": "げげげげ~~(強)aaa",
+    "name": "げげげげ~~(強)",
     "audioResourcePath": "/audio/げげげげ(強).mp3",
     "youTubeVideoUrl": "https://www.youtube.com/live/Qt9zb0nIhdg?si=Lii4WFeFoAfyDewL&t=11399"
   },
