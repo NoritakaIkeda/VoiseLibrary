@@ -1,6 +1,42 @@
 [
   {
     "id": "2",
+    "name": "ﾊｱﾀﾞｱﾀﾞ",
+    "audioResourcePath": "/audio/haadaa.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "たーすけて",
+    "audioResourcePath": "/audio/dasukete.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "やはりそうなるのかァ↑",
+    "audioResourcePath": "/audio/yaharisounarunoka.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "ﾅﾅﾅﾅﾅﾅﾅ",
+    "audioResourcePath": "/audio/nananananana.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "意地悪だ、意地悪だ",
+    "audioResourcePath": "/audio/iziwaruda.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "いーやーいーや、いやよいやよ",
+    "audioResourcePath": "/audio/i-yai-ya.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
     "name": "いぃえ",
     "audioResourcePath": "/audio/iie.mp3",
     "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
