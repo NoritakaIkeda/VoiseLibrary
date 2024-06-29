@@ -1,6 +1,42 @@
 [
   {
     "id": "2",
+    "name": "お姉ちゃん!?",
+    "audioResourcePath": "/audio/oneetyan1.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "ﾌｴｯ!?へっ？",
+    "audioResourcePath": "/audio/huehe.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "お姉ちゃん??",
+    "audioResourcePath": "/audio/onetyan2.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "お姉ちゃんだ(確信)",
+    "audioResourcePath": "/audio/onetyan3.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "やばばばば(略)",
+    "audioResourcePath": "/audio/yababa.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "へっ、お姉ちゃん!?",
+    "audioResourcePath": "/audio/onetyan4.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
     "name": "ﾊｱﾀﾞｱﾀﾞ",
     "audioResourcePath": "/audio/haadaa.mp3",
     "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
