@@ -40,7 +40,12 @@ export const VoiceButtonList = () => {
   const handleCopy = (text: string) => {
     navigator.clipboard.writeText(text).then(
       () => {
-        alert("クリップボードにコピーされました: " + text);
+        toast({
+          title: "リンクをクリップボードにコピーしました",
+          status: "success",
+          duration: 5000,
+          isClosable: true,
+        });
       },
       (err) => {
         console.error("クリップボードへのコピーに失敗しました: ", err);

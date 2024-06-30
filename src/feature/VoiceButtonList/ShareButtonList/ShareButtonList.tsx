@@ -1,4 +1,4 @@
-import { Button, Grid, GridItem } from "@chakra-ui/react";
+import { Button, Grid, GridItem, Text } from "@chakra-ui/react";
 import data from "../../../data.json";
 import { VoiceButtonShare } from "../../VoiceButtonShare";
 
@@ -20,6 +20,9 @@ export const ShareButtonList = ({ setMode, handleCopy }: Props) => {
       >
         音声一覧へ戻る
       </Button>
+      <Text pb={"10px"} fontSize={"small"}>
+        ボタンをクリックすると、シェアリンクをコピーできます
+      </Text>
       <Grid
         templateColumns={{ base: "repeat(3, 1fr)", md: "repeat(7, 1fr)" }}
         gap={6}
