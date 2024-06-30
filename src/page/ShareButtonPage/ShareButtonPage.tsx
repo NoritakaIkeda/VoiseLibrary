@@ -6,6 +6,7 @@ type Props = { buttonId: string };
 
 export const ShareButtonPage = ({ buttonId }: Props) => {
   const filteredData = data.filter((item) => item.id === buttonId);
+
   return (
     <Flex direction="column" minHeight="100vh">
       <Header />
