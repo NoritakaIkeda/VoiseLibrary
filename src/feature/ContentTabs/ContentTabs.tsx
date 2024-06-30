@@ -1,5 +1,4 @@
 import {
-  Box,
   Tab,
   TabIndicator,
   TabList,

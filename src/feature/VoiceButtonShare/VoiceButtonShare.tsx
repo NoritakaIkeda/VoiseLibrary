@@ -1,4 +1,3 @@
-import { CopyIcon } from "@chakra-ui/icons";
 import { Box, Text } from "@chakra-ui/react";
 
 type Props = {
