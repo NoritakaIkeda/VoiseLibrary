@@ -1,18 +1,12 @@
 // App.tsx
-import { BrowserRouter as Router } from "react-router-dom";
-import { Box } from "@chakra-ui/react";
-import { ContentTabs, Footer, Header } from "./feature";
+import { RouterProvider, createRouter } from "@tanstack/react-router";
+
+import { routeTree } from "./routeTree.gen";
+
+const router = createRouter({ routeTree: routeTree });
 
 function App() {
-  return (
-    <Router>
-      <Header />
-      <Box px={{ base: "5%", md: "10vw" }} py={"20px"}>
-        <ContentTabs />
-      </Box>
-      <Footer />
-    </Router>
-  );
+  return <RouterProvider router={router}></RouterProvider>;
 }
 
 export default App;
