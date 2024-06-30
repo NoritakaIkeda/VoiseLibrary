@@ -40,7 +40,7 @@ export const ContentTabs = () => {
         </Tab>
         <Tab>
           <Text color={activeTab === 2 ? "black" : "gray"} fontWeight="bold">
-            元画像リンク集
+            元動画リンク集
           </Text>
         </Tab>
       </TabList>
