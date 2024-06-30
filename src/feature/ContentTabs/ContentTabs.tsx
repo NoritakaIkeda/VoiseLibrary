@@ -50,14 +50,10 @@ export const ContentTabs = () => {
           <VoiceButtonList />
         </TabPanel>
         <TabPanel>
-          <Box h={"700px"}>
-            <CustomButtonList isActive={isActive} />
-          </Box>
+          <CustomButtonList isActive={isActive} />
         </TabPanel>
         <TabPanel>
-          <Box h={"700px"}>
-            <YoutubeLinkList />
-          </Box>
+          <YoutubeLinkList />
         </TabPanel>
       </TabPanels>
     </Tabs>
