@@ -1,6 +1,36 @@
 [
   {
     "id": "2",
+    "name": "きよまろの仇じゃ--!!!",
+    "audioResourcePath": "/audio/kiyomarono.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "力が欲しいんだよ我輩もさ",
+    "audioResourcePath": "/audio/tikaraga.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "面白ければ、それでヨシ！",
+    "audioResourcePath": "/audio/omoshirokereba.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "力を手にしたいな",
+    "audioResourcePath": "/audio/tikarawotenisitai.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
+    "name": "Re:ゼロから始めるARKヒモ生活",
+    "audioResourcePath": "/audio/zerokarahazimeru.mp3",
+    "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
+  },
+  {
+    "id": "2",
     "name": "しつれいしつれ〜い",
     "audioResourcePath": "/audio/situreisiturei.mp3",
     "youTubeVideoUrl": "https://youtu.be/doUMy8NYw-Q?si=bL1RX14lc-rIpkJG&t=596"
