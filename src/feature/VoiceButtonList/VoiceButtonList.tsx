@@ -63,7 +63,7 @@ export const VoiceButtonList = () => {
             {data.map((item, index) => {
               return (
                 <GridItem key={index}>
-                  {index <= 4 ? (
+                  {index <= 3 ? (
                     <VoiceButton
                       name={item.name}
                       audioResourcePath={item.audioResourcePath}
